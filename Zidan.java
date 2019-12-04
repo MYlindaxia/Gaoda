@@ -35,4 +35,5 @@ public class Zidan {
 	public Rectangle getRect(){
 		return new Rectangle(x,y,width,height);
 	}
+//test
 }
